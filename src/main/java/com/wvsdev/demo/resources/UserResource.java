@@ -1,4 +1,4 @@
-package com.wvsdev.demo.domain.resources;
+package com.wvsdev.demo.resources;
 
 import com.wvsdev.demo.domain.entities.User;
 import org.springframework.http.ResponseEntity;
