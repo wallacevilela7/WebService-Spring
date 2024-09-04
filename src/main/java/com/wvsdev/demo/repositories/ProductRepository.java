@@ -1,0 +1,7 @@
+package com.wvsdev.demo.repositories;
+
+import com.wvsdev.demo.domain.entities.Product;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProductRepository extends JpaRepository<Product, Long> {
+}
